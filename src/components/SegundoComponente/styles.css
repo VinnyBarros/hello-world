@@ -1,0 +1,26 @@
+{/* 
+* {
+    margin: auto;
+}
+
+.senha,
+
+.email {
+    margin-block: 1rem;
+    display: flex;
+    width: 12rem;
+    border-radius: .5rem;
+}
+
+.button {
+    width: 11rem;
+    display: flex;
+    border-radius: .5rem;
+}
+
+.button:hover {
+    background-color: black;
+    transition: 500ms;
+    color: white;
+}
+*/}
